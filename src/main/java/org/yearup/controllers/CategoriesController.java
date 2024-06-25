@@ -9,6 +9,7 @@ import org.yearup.models.Category;
 import org.yearup.models.Product;
 
 import java.util.List;
+
 @RestController
 @RequestMapping("categories")
 @CrossOrigin
