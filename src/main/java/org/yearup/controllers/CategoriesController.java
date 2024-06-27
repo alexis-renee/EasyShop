@@ -45,7 +45,7 @@ public class CategoriesController {
         try {
             category = categoryDao.getById(id);
         } catch (Exception ex) {
-            throw new ResponseStatusException(HttpStatus.INTERNAL_SERVER_ERROR, "Oops... our bad.");
+            throw new ResponseStatusException(HttpStatus.INTERNAL_SERVER_ERROR, "Oops... Try again.");
         }
 
         if (category == null)
@@ -104,6 +104,7 @@ public class CategoriesController {
         try {
             categoryDao.update(id, category);
         } catch (Exception ex) {
+            ex.printStackTrace();
             throw new ResponseStatusException(HttpStatus.INTERNAL_SERVER_ERROR, "Oops... Try again.");
         }
         // update the category by id
