@@ -3,11 +3,11 @@
 ## My goal as a developer for EasyShop is to Find, Debug, and Add new features to this exisiting website for an efficient, aesthetically pleasing website.
 
 ## User Stories
-- As a user, I want to navigate the website easily so that I can find the products I need without any confusion.
+- As a user, I want to navigate the website easily so that I can find the products by category, price & color without any confusion.
 - As a user, I want the website to load quickly so that I don’t waste time waiting for pages to open.
 - As a user, I want to the website to be free of errors so that the shopping experience is smooth and uninterrupted.
 - As a user, I want a responsive design so that I can shop from any device such as phone, tablet, or computer.
-[
+
 ## Setup
 - Download and Install IntelliJ IDEA
 - Create a New Project
@@ -51,7 +51,7 @@ Include screenshots or GIFs that show your application in action. Use tools like
 
 ## Future Work
 
-In the future, I want to find bugs quickly and be at great problem-solving skills in my code.
+In the future, I want to find bugs quickly & be great at problem-solving skills in my code.
 
 
 ## Resources
