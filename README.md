@@ -2,9 +2,12 @@
 
 ## My goal as a developer for EasyShop is to Find, Debug, and Add new features to this exisiting website for an efficient, aesthetically pleasing website.
 
-## Website
-<img width="1280" alt="">
-
+## User Stories
+- As a user, I want to navigate the website easily so that I can find the products I need without any confusion.
+- As a user, I want the website to load quickly so that I don’t waste time waiting for pages to open.
+- As a user, I want to the website to be free of errors so that the shopping experience is smooth and uninterrupted.
+- As a user, I want a responsive design so that I can shop from any device such as phone, tablet, or computer.
+[
 ## Setup
 - Download and Install IntelliJ IDEA
 - Create a New Project
@@ -18,13 +21,9 @@
 ### Prerequisites
 
 - IntelliJ IDEA: Ensure you have IntelliJ IDEA installed, which you can download from [here](
-[Class Diagram] ![Screen Shot 2024-06-02 at 7.10.16 PM.png](..%2FDesktop%2FScreen%20Shot%202024-06-02%20at%207.10.16%20PM.png)
 
-User Stories
-- As a user, I want to be able to input my data, so that the application can process it accordingly.
-- As a user, I want to receive immediate feedback, so I can understand what to do next.
-- As a user, I want to be able to properly add my input selections into the application. 
-[
+
+
 ](https://www.jetbrains.com/idea/download/).
 
 ### Running the Application in IntelliJ
@@ -52,12 +51,11 @@ Include screenshots or GIFs that show your application in action. Use tools like
 
 ## Future Work
 
-In the future, I want to be more creative and show problem-solving skills in my code; make the checkout process run smoother also, successfully be able to run my demo efficiently in future projects.
+In the future, I want to find bugs quickly and be at great problem-solving skills in my code.
 
 
 ## Resources
-- Schoology Intro to OOP
-- Inheritance /Advanced OOP
+- Schoology Workbook 8-9
 - [Alex Lee Learn Java](https://www.example.com)
 
 ## Team Members
@@ -67,8 +65,6 @@ In the future, I want to be more creative and show problem-solving skills in my 
 
 ## Thanks
 
-Express gratitude towards those who provided help, guidance, or resources:
-
-- Thank you to Raymond for continuous support and guidance.
+- Thank you to Raymond for continuous support and guidance. 
 - A special thanks to all the Application Development teammates for their dedication and teamwork.
 
