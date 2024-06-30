@@ -77,7 +77,7 @@ public class CategoriesController {
 
         // get a list of product by categoryId
         // list all product by category id
-        // return productDao.method
+
     }
 
     // add annotation to call this method for a POST action

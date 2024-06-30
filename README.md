@@ -2,6 +2,9 @@
 
 ## My goal as a developer for EasyShop is to Find, Debug, and Add new features to this exisiting website for an efficient, aesthetically pleasing website.
 
+## Website
+<img width="1280" alt="Screen Shot 2024-06-29 at 7 35 54 PM" src="https://github.com/alexis-renee/EasyShop/assets/166551493/1993b3d0-2632-41e6-b7ab-779c93730cb5">
+
 ## User Stories
 - As a user, I want to navigate the website easily so that I can find the products by category, price & color without any confusion.
 - As a user, I want the website to load quickly so that I don’t waste time waiting for pages to open.
